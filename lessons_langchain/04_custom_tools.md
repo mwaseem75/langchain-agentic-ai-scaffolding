@@ -1,6 +1,7 @@
 # Lesson 4 — Custom Tools via `@tool`
 
 **File:** `lessons_langchain/04_custom_tools.py`
+**Run it:** `uv run lessons_langchain/04_custom_tools.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Verified cost:** $0.0011 (worked on the first run)
 

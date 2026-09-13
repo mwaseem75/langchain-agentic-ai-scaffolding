@@ -1,6 +1,7 @@
 # Lesson 2 — `HumanInTheLoopMiddleware`: LangChain's Approval Gate
 
 **File:** `lessons_langchain/02_human_in_the_loop.py`
+**Run it:** `uv run lessons_langchain/02_human_in_the_loop.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Model:** `claude-haiku-4-5`
 **Verified cost:** ~$0.0045 total (two full approve/reject cycles)

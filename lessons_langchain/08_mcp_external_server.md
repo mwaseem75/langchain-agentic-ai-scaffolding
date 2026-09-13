@@ -1,6 +1,7 @@
 # Lesson 8 — External MCP Servers via `langchain-mcp-adapters`
 
 **File:** `lessons_langchain/08_mcp_external_server.py`
+**Run it:** `uv run lessons_langchain/08_mcp_external_server.py`
 **Verified cost:** $0.002
 
 ## What this lesson is

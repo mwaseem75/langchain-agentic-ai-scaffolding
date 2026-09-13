@@ -1,6 +1,7 @@
 # Lesson 1 — A Bare LLM Call vs. an Agent-Wrapped Call
 
 **File:** `lessons_langchain/01_hello_agent.py`
+**Run it:** `uv run lessons_langchain/01_hello_agent.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Model:** `claude-haiku-4-5`
 **Verified cost:** ~$0.0007 total across both calls

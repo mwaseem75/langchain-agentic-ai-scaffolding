@@ -1,6 +1,7 @@
 # Lesson 6 — Custom Middleware Guardrails via `@wrap_tool_call`
 
 **File:** `lessons_langchain/06_middleware_guardrails.py`
+**Run it:** `uv run lessons_langchain/06_middleware_guardrails.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Verified cost:** $0.0034 (worked on the first run)
 

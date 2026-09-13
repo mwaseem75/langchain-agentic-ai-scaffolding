@@ -1,6 +1,7 @@
 # Lesson 3 — `system_prompt` and Model Choice
 
 **File:** `lessons_langchain/03_system_prompt_and_model.py`
+**Run it:** `uv run lessons_langchain/03_system_prompt_and_model.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Verified cost:** ~$0.001 total across 4 calls
 

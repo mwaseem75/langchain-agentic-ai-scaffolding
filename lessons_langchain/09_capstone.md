@@ -1,6 +1,7 @@
 # Lesson 9 — Capstone: "Repo Housekeeper" Rebuilt in LangChain
 
 **File:** `lessons_langchain/09_capstone.py`
+**Run it:** `uv run lessons_langchain/09_capstone.py`
 **Verified cost:** $0.008 (worked on the first run)
 
 ## What this lesson is

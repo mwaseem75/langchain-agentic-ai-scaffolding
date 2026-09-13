@@ -1,6 +1,7 @@
 # Lesson 5 — Checkpointer + `thread_id` vs. No Checkpointer
 
 **File:** `lessons_langchain/05_stateful_agent.py`
+**Run it:** `uv run lessons_langchain/05_stateful_agent.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Verified cost:** negligible (4 short calls, well under $0.01)
 

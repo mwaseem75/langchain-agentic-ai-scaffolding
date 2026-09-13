@@ -1,6 +1,7 @@
 # Lesson 7 — The Subagents-as-Tools Pattern
 
 **File:** `lessons_langchain/07_subagents.py`
+**Run it:** `uv run lessons_langchain/07_subagents.py`
 **Companion lesson:** the matching concept in the `claude-agentic-ai-scaffolding` repo
 **Verified cost:** $0.0017 (main agent only — see caveat below)
 
